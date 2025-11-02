@@ -1,0 +1,11 @@
+# OneDrive 특수폴더 무시
+*.lnk
+desktop.ini
+**/.849C9593-*
+**/OneNote/
+**/Music/
+**/Pictures/
+**/OnedriveDocument/
+**/Desktop/
+**/.metadata/
+/bin/
